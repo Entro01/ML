@@ -1,1 +1,4 @@
+project made while following Andrej Karpathy's lesson on language modelling
+https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ
 
+makemore bigram -> only considers a single previous character
